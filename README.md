@@ -1,3 +1,3 @@
 # sqlalchemy-challenge
 
-![wish you were here](Images/honolulu_postcard.jpg]
+![alt text](Images/honolulu_postcard.jpg)
