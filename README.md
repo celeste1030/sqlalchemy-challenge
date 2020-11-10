@@ -4,7 +4,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-## <span style="color:beeyellow">Table-of-Contents</span>
+## Table of Contents
 * [General info](#general-info)
 * [Objectives](#objectives)
 * [Technologies](#technologies)
@@ -16,17 +16,17 @@
 ## General info
 ## Objectives
 
-## Step 1
+## <span style="color:Bee Yellow">Step</span> 1
 
-Climate Analysis and Exploration
+**Climate Analysis and Exploration**
 
 Precipitation Analysis
 
 Station Analysis
 
-## Step 2
+## <span style="color:beer">Step</span> 2
 
-Climate App
+**Climate App**
 
 Routes
 
