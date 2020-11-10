@@ -2,6 +2,8 @@
 
 ![alt text](Images/honolulu_postcard.jpg)
 
+*Wish you here here!* :hibiscus:
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## Table of Contents
@@ -30,9 +32,12 @@
 
 **Routes**
 
-## Technologies
+## Technologies :desert_island:
 
 sqlalchemy
+
 jupyternotebook
+
 Python
+
 Matplotlib
