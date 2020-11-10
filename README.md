@@ -12,7 +12,7 @@
 ## General info
 ## Objectives
 
-Step 1
+## Step 1
 
 Climate Analysis and Exploration
 
@@ -20,7 +20,7 @@ Precipitation Analysis
 
 Station Analysis
 
-Step 2
+## Step 2
 
 Climate App
 
