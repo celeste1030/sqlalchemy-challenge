@@ -4,7 +4,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-## <span style="color:bee yellow">Table of Contents</span>
+## <span style="color:beeyellow">Table-of-Contents</span>
 * [General info](#general-info)
 * [Objectives](#objectives)
 * [Technologies](#technologies)
