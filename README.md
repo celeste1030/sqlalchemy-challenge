@@ -2,12 +2,16 @@
 
 ![alt text](Images/honolulu_postcard.jpg)
 
-## Table of contents
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+## <span style="color:bee yellow">Table of Contents</span>
 * [General info](#general-info)
 * [Objectives](#objectives)
 * [Technologies](#technologies)
 * [Step-1](#Step-1)
 * [Step-2](#Step-2)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## General info
 ## Objectives
