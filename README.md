@@ -25,6 +25,10 @@
 
 **Precipitation Analysis**
 
+![alt text](Images/avg_prcp.png)
+
+![alt text](Images/stats_prcp.png)
+
 **Station Analysis**
 
 ## :desert_island: Step 2
