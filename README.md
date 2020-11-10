@@ -2,11 +2,11 @@
 
 ![alt text](Images/honolulu_postcard.jpg)
 
-*Wish you here here!* :hibiscus:
+*Wish you were here!* :hibiscus:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-## Table of Contents
+## :sunny: Table of Contents :sunny:
 * [General info](#general-info)
 * [Objectives](#objectives)
 * [Technologies](#technologies)
@@ -15,10 +15,11 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-## General info
-## Objectives
+## :desert_island: General info
 
-## Step 1
+## :desert_island: Objectives
+
+## :desert_island: Step 1
 
 ### Climate Analysis and Exploration
 
@@ -26,13 +27,13 @@
 
 **Station Analysis**
 
-## Step 2
+## :desert_island: Step 2
 
 ### Climate App
 
 **Routes**
 
-## Technologies :desert_island:
+## :desert_island: Technologies
 
 sqlalchemy
 
