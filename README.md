@@ -16,19 +16,19 @@
 ## General info
 ## Objectives
 
-## <span style="color:Bee Yellow">Step</span> 1
+## Step 1
 
-**Climate Analysis and Exploration**
+### Climate Analysis and Exploration
 
-Precipitation Analysis
+**Precipitation Analysis**
 
-Station Analysis
+**Station Analysis**
 
-## <span style="color:beer">Step</span> 2
+## Step 2
 
-**Climate App**
+### Climate App
 
-Routes
+**Routes**
 
 ## Technologies
 
