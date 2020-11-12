@@ -72,5 +72,17 @@ def precipitation():
     return (
         jsonify(prcp_list)
     )
+### Return a JSON list of stations from the dataset.
 
+@app.route("/api/v1.0/stations")
+def stations():
+    # Create  session
+    session = Session(engine)
+
+    # Query stations
+    stations = session.query(Station.station).all()
+
+    session.close()
+
+    return jsonify(stations)
 
