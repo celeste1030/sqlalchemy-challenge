@@ -6,7 +6,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-## :sunny: Table of Contents :sunny:
+## Table of Contents
 * [General info](#general-info)
 * [Objectives](#objectives)
 * [Technologies](#technologies)
@@ -30,6 +30,8 @@
 ![alt text](Images/stats_prcp.png)
 
 **Station Analysis**
+
+![alt text](Images/tobs_hist.png)
 
 ## :desert_island: Step 2
 
