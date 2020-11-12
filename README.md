@@ -27,7 +27,7 @@
 
 ![alt text](Images/avg_prcp.png)
 
-![alt text](Images/stats_prcp.png =20x100)
+![alt text](Images/stats_prcp.png)
 
 **Station Analysis**
 
