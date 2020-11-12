@@ -15,11 +15,11 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-:desert_island: ## General info
+## General info :desert_island: 
 
-:desert_island: ## Objectives
+## Objectives :desert_island: 
 
-:desert_island: ## Step 1
+## Step 1 :desert_island: 
 
 ### Climate Analysis and Exploration
 
@@ -33,13 +33,13 @@
 
 ![alt text](Images/tobs_hist.png)
 
-:desert_island: ## Step 2
+## Step 2 :desert_island:
 
 ### Climate App
 
 **Routes**
 
-:desert_island: ## Technologies
+## Technologies :desert_island:
 
 sqlalchemy
 
