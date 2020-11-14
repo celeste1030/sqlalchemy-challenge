@@ -24,6 +24,7 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 1. Use queries to analyze weather station and precipitation data for the last year.
 2. Design a Flask API based on the queries that you have just developed. 
+
 Bonus: Calculate and visualize average temperature for dates of my trip!
 
 ## Step 1
@@ -46,7 +47,7 @@ Bonus: Calculate and visualize average temperature for dates of my trip!
 
 **Routes**
 
-The routes I used for my FLask API are here:
+The routes I used for my Flask API are here:
 [routes](app.py)
 
 
